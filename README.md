@@ -1,4 +1,5 @@
-### Hi there, I'm Ovi Paul  👋
+### Hi there, I'm Ovi Paul  👋 ![](https://komarev.com/ghpvc/?username=your-github-ovipaul&color=green)
+
 - 🔭 I’m currently a researcher at [Artificial Intelligence and Cybernetics Lab](https://www.agencylab.org/)
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate with other researchers.
