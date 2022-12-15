@@ -1,9 +1,9 @@
 ### Welcome to my GitHub library Fellow Nerds!  👋 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=ovipaul&color=brightgreen&style=plastic&label=Profile+visits"></a>
 
-- 🔭 I’m currently a researcher at [Artificial Intelligence and Cybernetics Lab](https://www.agencylab.org/)
+- 🔭 I’m currently working as an AI Engineer at [AinoviQ](https://ainoviqit.com/)
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate with other researchers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: Email me at ovipaulcs@gmail.com
 
 ### Connect with me:
