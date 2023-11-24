@@ -1,10 +1,10 @@
 ### Welcome to my GitHub library Fellow Nerds!  👋 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="right" src="https://komarev.com/ghpvc/?username=ovipaul&color=brightgreen&style=plastic&label=Profile+visits"></a>
 
-- 🔭 I’m currently working as an AI Engineer at [AinoviQ](https://ainoviqit.com/)
-- 🌱 I’m currently learning everything!
+- 🔭 I’m currently working as an Researcher at [NCALM](https://ncalm.cive.uh.edu/)
+- 🌱 I’m currently learning about LiDAR!
 - 👯 I’m looking to collaborate with other researchers.
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: Email me at ovipaulcs@gmail.com
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: Email me at opaul@uh.edu
 
 ### Connect with me:
 
